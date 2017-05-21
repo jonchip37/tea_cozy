@@ -1,0 +1,1 @@
+Tea Cozy project for Code Academy.
